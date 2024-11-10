@@ -1,7 +1,7 @@
 ## Developing an Air Quality Dashboard using React, Tailwind CSS, TypeScript and Maplibre GL JS.
 
 ![](./dashboard.png)
-Conference: [Geomundus Conference 2024](geomundus.org).
+Conference: [Geomundus Conference 2024](https://geomundus.org/2024/speakers.html#workshops)
 
 This doc is designed for workshop presented at the Geomundus Conference 2024 on October 26th, 2024.
 
